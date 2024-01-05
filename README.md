@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Khadija! <br/><a href="https://github.com/C0deGurl">Cybersecurity Student </a>
+
+<h2>👩‍💻Cybersecurity Projects:</h2>
+
+- <b> (Active Directory Home Lab)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  
+<h2>📄Certifications:</h2>
+
+- [DP 900: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/KhadijaKhan-6538/3CAD1FB25BB8E216?sharingId=5E213062CD7BF8E0)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="KhadijaKhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/khadijakhannj
 
 <!--
-**C0deGurl/C0deGurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
